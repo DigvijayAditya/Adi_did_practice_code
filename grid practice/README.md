@@ -1,7 +1,3 @@
-Here's an effective README file for your "Magic Grid" project to upload on GitHub:
-
----
-
 # Magic Grid
 
 ## Description
