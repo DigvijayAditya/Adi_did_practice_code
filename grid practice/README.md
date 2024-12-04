@@ -58,5 +58,3 @@ The **Magic Grid** is an interactive web-based grid system where each cell's bac
 This project is licensed under the MIT License.
 
 ---
-
-Make sure to replace `your-username` with your actual GitHub username in the `git clone` command link. This README will help others understand the purpose of your project, how to use it, and how to contribute if needed.
